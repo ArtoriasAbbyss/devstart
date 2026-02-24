@@ -1,0 +1,7 @@
+const obterElementoFooter = () => {
+        // TODO
+        return document.querySelector("#footer-wrapper")
+      }
+
+      // Não modificar
+      console.log(obterElementoFooter());
